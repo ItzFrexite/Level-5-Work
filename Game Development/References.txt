@@ -1,0 +1,18 @@
+http://www.gamasutra.com/view/feature/131151/paper_burns_game_design_with_.php
+https://marionettestudio.com/agile-game-development-quick-overview/
+https://www.lucidchart.com/blog/pros-and-cons-of-waterfall-methodology
+http://tryqa.com/what-is-agile-methodology-examples-when-to-use-it-advantages-and-disadvantages/
+https://www.simplilearn.com/scrum-project-management-article
+https://www.cprime.com/2012/09/when-to-use-scrum/
+http://www.gamasutra.com/view/feature/132121/top_10_pitfalls_using_scrum_.php?page=1
+https://smallbusiness.chron.com/advantages-disadvantages-scrum-project-management-methodology-36099.html
+
+
+Cprime. (2019). When to Use Scrum? - Cprime. [online] Available at: https://www.cprime.com/2012/09/when-to-use-scrum/ [Accessed 8 Apr. 2019].
+Gamasutra.com. (2019). Paper Burns: Game Design With Agile Methodologies. [online] Available at: http://www.gamasutra.com/view/feature/131151/paper_burns_game_design_with_.php [Accessed 7 Apr. 2019].
+Gamasutra.com. (2019). Top 10 Pitfalls Using Scrum Methodology for Video Game Development. [online] Available at: http://www.gamasutra.com/view/feature/132121/top_10_pitfalls_using_scrum_.php?page=1 [Accessed 8 Apr. 2019].
+Lucidchart.com. (2019). The Pros and Cons of Waterfall Methodology. [online] Available at: https://www.lucidchart.com/blog/pros-and-cons-of-waterfall-methodology [Accessed 7 Apr. 2019].
+Marionette Studio. (2019). Agile Game Development - A Quick Overview - Marionette Studio. [online] Available at: https://marionettestudio.com/agile-game-development-quick-overview/ [Accessed 7 Apr. 2019].
+Simplilearn.com. (2019). Scrum Project Management Pros and Cons | CSM Training. [online] Available at: https://www.simplilearn.com/scrum-project-management-article [Accessed 8 Apr. 2019].
+Smallbusiness.chron.com. (2019). Advantages and Disadvantages of the Scrum Project Management Methodology. [online] Available at: https://smallbusiness.chron.com/advantages-disadvantages-scrum-project-management-methodology-36099.html [Accessed 8 Apr. 2019].
+Tryqa.com. (2019). What is Agile methodology? Examples, when to use, advantages & disadvantages. [online] Available at: http://tryqa.com/what-is-agile-methodology-examples-when-to-use-it-advantages-and-disadvantages/ [Accessed 7 Apr. 2019].
